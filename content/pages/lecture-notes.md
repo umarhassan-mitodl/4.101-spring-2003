@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -148,4 +150,4 @@ Concrete formwork
 
 {{< tableclose >}}
 
-All 3D images created in {{% resource_link "df84421b-867b-4bc4-9c1a-5c0dd88584f2" "SketchUp" %}}, Copyright ©2002 @Last Software, Inc. All rights reserved.
+All 3D images created in [SketchUp](http://www.sketchup.com/), Copyright ©2002 @Last Software, Inc. All rights reserved.

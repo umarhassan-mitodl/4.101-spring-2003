@@ -4,6 +4,8 @@ description: ''
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/eb7421672d1e0868d0fee68009b9fbe9_4SketchUpdesign4.pdf
 file_size: 792031
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

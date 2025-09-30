@@ -4,6 +4,8 @@ description: ''
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/d0c58f18353d96f3201d53e2bedd2030_6Concformwork2.pdf
 file_size: 953312
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

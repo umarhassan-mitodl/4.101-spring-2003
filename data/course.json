@@ -28,6 +28,7 @@
     "website": "4-101-experiencing-architecture-studio-spring-2003"
   },
   "course_title": "Experiencing Architecture Studio",
+  "hide_download": true,
   "course_description": "This course uses scale models to design environments that orchestrate contrasting material properties and conventional constructional systems to create places that foster specific ways of inhabiting space. It also demonstrates how architecture differs from other forms of design. Intended for students to test aptitude for architectural design and to experience an unfamiliar mode of thought, it's conducted in a studio format, with lectures on architectural theory and history, and structured for students with no previous experience in design.\n\nRequired of Architecture majors.\n",
   "department_numbers": [
     "4"
@@ -38,6 +39,7 @@
     "content": "ce72f237-0647-b5cf-60f8-11e54b241710",
     "website": "4-101-experiencing-architecture-studio-spring-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples"

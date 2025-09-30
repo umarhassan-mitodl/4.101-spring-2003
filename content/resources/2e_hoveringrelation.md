@@ -4,6 +4,8 @@ description: The resource contains images showing Hovering relation.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/9d5ad4ddf90531fc0a191f1766ffb291_2e_Hoveringrelation.pdf
 file_size: 2195914
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

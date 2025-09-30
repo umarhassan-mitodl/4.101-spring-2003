@@ -4,6 +4,8 @@ description: Project Work by Assaf Biderman
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/e712226aa7c3a969729959533fe2eaa8_AssafBiderman.pdf
 file_size: 467408
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

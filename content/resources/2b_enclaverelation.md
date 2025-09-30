@@ -4,6 +4,8 @@ description: The resource contains images showing Enclave relation.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/f95f493ec709e1b02f610061772824ea_2b_Enclaverelation.pdf
 file_size: 702445
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

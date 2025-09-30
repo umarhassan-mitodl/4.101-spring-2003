@@ -4,6 +4,8 @@ description: The resource contains the images of the studio of the Optimist's da
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/3140e2a2a4644e5baadb7abc6783539f_1_SouthEnd.pdf
 file_size: 1596898
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

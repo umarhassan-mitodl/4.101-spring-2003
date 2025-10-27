@@ -4,8 +4,6 @@ description: The resource contains images showing Diagramming.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/48d44746b258b3e2860466286095de6a_5c_Diagramming.pdf
 file_size: 2387796
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

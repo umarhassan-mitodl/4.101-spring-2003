@@ -4,8 +4,6 @@ description: The resource contains images showing Column as space maker.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/dac3a969070a844202455706a107fc6b_3b_Columnasstructure.pdf
 file_size: 1257897
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

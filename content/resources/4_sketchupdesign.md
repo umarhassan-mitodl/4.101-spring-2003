@@ -4,8 +4,6 @@ description: The resource contains images showing SketchUp design.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/76353c7f84d0a2a04746db2029b8ff1e_4_SketchUpdesign.pdf
 file_size: 8935906
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

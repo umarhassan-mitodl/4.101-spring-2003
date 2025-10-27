@@ -4,8 +4,6 @@ description: Project Work by Merritt Tam
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/f09e792e38d669b615f190ac885990e4_MerrittTam.pdf
 file_size: 376236
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

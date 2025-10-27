@@ -4,8 +4,6 @@ description: The resource contains images showing counterdefining relation.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/8ec934be7281f94e6ca4be94ec55f538_2a_Counterdefiningrelation.pdf
 file_size: 456557
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
